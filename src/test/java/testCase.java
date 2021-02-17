@@ -39,7 +39,6 @@ public class testCase {
             }
         }
         return result;
-
     }
 }
 
