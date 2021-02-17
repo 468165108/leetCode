@@ -26,7 +26,7 @@ public class testCase {
         return result;
     }
 
-    public int reverse02(int x) {
+    public int reverse03(int x) {
         int result = 0;
         while (x != 0) {
             int tmp = x % 10;
